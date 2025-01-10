@@ -1,0 +1,35 @@
+
+	body {
+		background: url(https://static.vecteezy.com/system/resources/thumbnails/036/431/471/small/seamless-pattern-green-cabbage-illustration-design-for-kale-day-healthy-food-health-day-recipes-green-and-white-background-cartoon-assorted-cabbage-for-cover-book-decoration-postcard-vector.jpg);
+	}
+
+	nav-brand {
+		background: url(https://img.freepik.com/premium-vector/logo-food-company-that-says-sun-sun-sunflower_917213-253424.jpg?semt=ais_hybrid);
+	}
+
+	.container {
+		background-color: seagreen;
+		padding: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 20px;
+	}
+	
+	h1 {
+		text-align: center;
+		background-color: seagreen;
+		padding: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 20px;
+	}
+
+	.for {
+		background-color: limegreen;
+		padding: 10px;
+		margin-top: 10px;
+		margin-bottom: 30px;
+		margin-left: 50px;
+		margin-right: 50px;
+		border-radius: 10px;
+	}
